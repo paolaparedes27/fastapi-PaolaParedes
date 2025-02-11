@@ -8,8 +8,8 @@ Este proyecto es una API desarrollada en **FastAPI** que permite a los asesores 
 
 ### 🔹 **Instalación Local**  
 1. Clona este repositorio:  
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/tu_usuario/fastapi-PaolaParedes.git
+   cd fastapi-PaolaParedes
    
 2. Instala las dependencias:  
    pip install -r requirements.txt
