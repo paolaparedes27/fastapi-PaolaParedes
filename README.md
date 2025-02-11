@@ -1,5 +1,3 @@
-# 📌 FastAPI - Sugerencias Automáticas  
-
 Este proyecto es una API desarrollada en **FastAPI** que permite a los asesores de una empresa recibir sugerencias automáticas basadas en preguntas frecuentes.  
 
 ## 🚀 Instalación y Ejecución  
