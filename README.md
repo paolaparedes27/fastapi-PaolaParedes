@@ -8,7 +8,7 @@ Este proyecto es una API desarrollada en **FastAPI** que permite a los asesores 
 
 ### 🔹 **Instalación Local**  
 1. Clona este repositorio:  
-   git clone https://github.com/paolaparedes27/fastapi-PaolaParedes/tree/main
+   git clone https://github.com/paolaparedes27/fastapi-PaolaParedes
    cd fastapi-PaolaParedes
    
 2. Instala las dependencias:  
